@@ -1,0 +1,76 @@
+/*This is the stylesheet*/
+
+form input {
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+form{
+	font-family: helvetica;
+	font-size: 30px;
+	margin-left: 500px;
+	margin-top: 100px;
+}
+
+#title {
+	font-family: tahoma;
+	font-color: blue;
+	text-align: center;
+	font-size: 75px;
+	font-weight:  bolder;
+}
+
+img {
+	display: inline;
+	border: 5px solid black;
+	padding: 20px;
+	margin-left: 150px;
+	margin-bottom: 75px;
+	height:100px;
+	width:100px;
+}
+
+.log_button {
+	font-family:helvetica;
+	font-size: 40px;
+	margin-left: 80px;
+	color: black;
+	font-style: none;
+	text-decoration: none;
+}
+
+#refresh {
+	margin-left: 200px;
+	font-family: helvetica;
+	font-weight: bold;
+
+}
+
+#messages table {
+	width:100%;
+	border-collapse: collapse;
+}
+
+#messages table th {
+	border-bottom: 2px solid #000000; 
+}
+
+#messages table td {
+	text-align: center;
+}
+
+div.subject {
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+div.body {
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: helvetica;
+	font-size: 30px;
+}
